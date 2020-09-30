@@ -1,2 +1,2 @@
 # hello-world
-test gitHub and git connection 
+this first GitHub file 
